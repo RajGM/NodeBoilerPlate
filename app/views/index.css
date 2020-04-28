@@ -1,0 +1,372 @@
+body{
+    color: #6E6E6E;
+    height: 3690px;
+    width: 1600px;
+    margin-left: 8%;
+}
+
+#topSec{
+height: 34.66%;
+}
+
+.navBarTextDark{
+    color: black;
+    opacity: 1;
+}
+
+#darker{
+    opacity: 1;
+}
+
+#topImage{
+height: 70.31%;
+}
+
+#navBar{
+    z-index: 2;
+}
+
+#topPic{
+  position: absolute;
+  top: 0px;
+  z-index: -1;
+}
+
+#aboutSec{
+    position: absolute;
+    width: 22%;
+    height: 25.7%;
+    top: 32%;
+    left: 48%;
+    overflow: visible;
+    z-index: 2;
+}
+
+#helloI{
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+
+#rajG{
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    color: rgba(255,255,255,1);
+}
+
+#pro{
+    white-space: nowrap;
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.5px;
+}
+
+.Rectangle_8 {
+    position: absolute;
+    overflow: visible;
+    width: 170px;
+    height: 55px;
+    left: 3px;
+    top: 177px;
+}
+
+#Get_Started {
+    position: absolute;
+    left: 52px;
+    top: 195px;
+    overflow: visible;
+    width: 71px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(255,255,255,1);
+}
+
+#topLower{
+    height: 28.68%;
+}
+
+#myskills{
+    height: 100%;
+    width: 61.5%;
+    margin-top: 33px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#infoMe{
+    height: 100%;
+    width: 39.6%;
+    float: left;
+}
+
+#skillBars{
+    height: 100%;
+    width: 60.4%;
+    float: right;
+    display:block;
+}
+
+#mainText{
+    height: 100%;
+    width: 85%;
+    text-align: left;
+    font-family:'Roboto', sans-serif;
+}
+
+button{
+    border: none;
+}
+
+#hireButton{
+    height: 15.5%;
+    width: 46.5%;
+    display: block;
+    margin:10% 0;
+    background-color: rgb(160,211,52);
+    color: rgba(255,255,255,1);
+}
+
+.barSec{
+    height: 50%;
+}
+
+.barSkill{
+    width: 45%;
+    height: 90%;
+    margin: auto;
+    display: inline-block;
+}
+
+.rightF{
+    float: right;
+}
+
+.skillLogo{
+    width: 29%;
+    height: 70%;
+    display: inline-block;
+    background-image: url(./public/brain.svg);
+    background-repeat: no-repeat;
+}
+
+.skillInfo{
+    width: 68%;
+    height: 90%;
+    display: inline-block;
+    text-align: left;
+}
+
+#middleSec{
+    height: 23.63%;
+}
+
+#lowerMiddle{
+    height: 25.01%;
+}
+
+#portMain{
+    height: 100%;
+    width: 80%;
+    margin: auto;
+    background-color: rgba(250,250,255,1);
+}
+
+#portText{
+    height: 20%;
+    width: 70%;
+    margin: auto;
+    text-align: center;  
+}
+
+.domainText{
+    display: inline-block;
+    margin-top: 10px ;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#portPics{
+    height: 80%;
+    width: 70%;
+    margin: auto;
+}
+
+#img1{
+    height:45%;
+    width:33%;
+}
+
+#img2{
+    height:31.25%;
+    width:33%;
+}
+
+#img3{
+    height:45%;
+    width:33%;
+}
+
+#img4{
+    height:31.25%;
+    width:33%;
+}
+
+#img5{
+    height:45%;
+    width:33%;
+}
+
+#img6{
+    height:31.25%;
+    width:33%;
+}
+
+.imgC{
+    margin: 0 auto;
+}
+
+#workTogether{
+    height: 6.74%;
+    background-color: rgba(250,250,255,1);
+    border: 1px solid black;
+}
+
+#footerWork{
+    height: 40%;
+    width: 70%;
+    display: block;
+    margin:75px auto;
+}
+
+#footerLine{
+    float: left;
+    margin-top: 32px;
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(74,74,74,1);
+}
+
+#finalB{
+    float: right;
+    width: 200px;
+    height: 60%;
+    margin-top: 20px;
+    background-color: rgb(160, 211, 52);
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(255,255,255,1);
+}
+
+#footerTab{
+    height: 7.99%;
+    overflow: hidden;
+    background-image: linear-gradient(to left,#7A39DB,#6048FF);
+}
+
+.footerDiv{
+    height: 100%;
+    width: 33%;
+    display: inline-block;
+}
+
+.contactDivs{
+    height: 33%;
+    width: 100%;
+}
+
+.imgConFooter{
+    height: 100%;
+    width: 15%;
+    display: inline-block;
+}
+
+#imgFooterPic1{
+    background-image: url(./public/phone.svg);
+    background-repeat: no-repeat;
+}
+
+#imgFooterPic2{
+    background-image: url(./public/subscribe.svg);
+    background-repeat: no-repeat;
+}
+
+#imgFooterPic3{
+    background-image: url(./public/phone.svg);
+    background-repeat: no-repeat;
+}
+
+#imgFooterPic4{
+    background-image: url(./public/phone.svg);
+    background-repeat: no-repeat;
+}
+
+#imgFooterPic5{
+    background-image: url(./public/mail1.svg);
+    background-repeat: no-repeat;
+}
+
+#imgFooterPic6{
+    background-image: url(./public/adress.svg);
+    background-repeat: no-repeat;
+}
+
+#imgFooterPic7{
+    background-image: url(./public/linkedin.svg);
+    background-repeat: no-repeat;
+}
+
+#imgFooterPic8{
+    background-image: url(./public/github.svg);
+    background-repeat: no-repeat;
+}
+
+#imgFooterPic9{
+    background-image: url(./public/coursera.svg);
+    background-repeat: no-repeat;
+}
+
+.txtConFooter{
+    height:100%;
+    width: 85%;
+    display: inline-block;
+    float: right;
+}
+
+.finalText{
+    margin-top: 6%;
+    color: black;
+    text-align: center;
+}
+
+#creditsTab{
+    height: 1.86%;
+    width: 100%;
+    text-align: center;
+    color: black;
+}

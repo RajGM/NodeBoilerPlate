@@ -1,0 +1,14 @@
+{
+"name":"NodeBoilerPlate",
+"version":"1.0.0",
+"description":"This boiler plate code will have minimum dependencies to build full stack app",
+"main":"index.js",
+"scripts":{
+"test":"Error"},
+"author":"RajGM LinkedIN:() Github() ",
+"dependencies":{
+	"express":"latest",
+	"pug":"latest",
+	"mongoose":"latest"
+}
+}
